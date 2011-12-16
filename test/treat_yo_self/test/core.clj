@@ -1,0 +1,6 @@
+(ns treat-yo-self.test.core
+  (:use [treat-yo-self.core])
+  (:use [clojure.test]))
+
+(deftest replace-me ;; FIXME: write
+  (is false "No tests have been written."))
